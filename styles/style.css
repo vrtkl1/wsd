@@ -1,0 +1,10 @@
+body, html { height: 100%; }
+
+body {
+    font-size: 12px;
+    line-height: 16px;
+    font-family: arial, sans-serif;
+    color: #808080;
+    background: #efefef url(images/body.png) repeat-x 0 0;
+    min-width: 950px;
+}
