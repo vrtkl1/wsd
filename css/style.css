@@ -29,11 +29,11 @@ a:active {
 }
 
 #wrapper { 
- background: #fff;
- margin: 10px auto; 
- max-width: 980px; 
- width: 90%; 
- padding: 10px 0; 
+ 	background: #fff;
+	margin: 10px auto; 
+	max-width: 980px; 
+	width: 90%; 
+	padding: 10px 0; 
 }
 
 header { 
@@ -57,4 +57,13 @@ header {
 	float: left;
 	width: 29%;
 	padding: 1em;
+}
+
+#featImgContainerContainer {
+	width: 100%;
+	float: left;
+}
+
+#featImgContainerContainer img {
+	max-width: 100%
 }
