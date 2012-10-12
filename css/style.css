@@ -39,3 +39,13 @@ a:active {
 header { 
 	padding: 3px; 
 }
+
+#logoContainer {
+	width: 39.68254%;
+	float: left;
+	clear: both;
+}
+
+#logoContainer img {
+	max-width: 100%
+}
