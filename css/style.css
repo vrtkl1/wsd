@@ -24,6 +24,17 @@ a:active {
 	top: 2px; 
 }
 
+p { 
+	padding: 0 5px 0 5px; 
+}
+
+ul { 
+	list-style: none; 
+}
+ul li { 
+	margin: 0 5px; 
+}
+
 .clearfix { 
 	clear: both; 
 }
