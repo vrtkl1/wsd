@@ -24,4 +24,8 @@ a:active {
 	top: 2px; 
 }
 
+.clearfix { 
+	clear: both; 
+}
+
 .header { background: url(images/header.png) repeat-x 0 0; height: 58px; padding: 29px 0 0 0;  }
