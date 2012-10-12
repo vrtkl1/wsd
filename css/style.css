@@ -24,6 +24,30 @@ a:active {
 	top: 2px; 
 }
 
+h1 { 
+	font-size: 90px; 
+	font-family: 'Droid Serif', serif; 
+	line-height: 75px; 
+	padding: 10px; 
+}
+
+h2 { 
+	font-family: 'Helvetica'; 
+	font-size: 18px; 
+	padding: 10px; 
+}
+
+h3 { 
+	font-family: 'Droid Serif', serif; 
+	font-size: 30px; color: #0072bc; 
+}
+
+h4 { 
+	font-family: 'Droid Serif', serif; 
+	padding: 3px; 
+	margin: 5px 0 0 0; 
+}
+
 p { 
 	padding: 0 5px 0 5px; 
 }
