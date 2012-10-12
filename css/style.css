@@ -49,3 +49,12 @@ header {
 #logoContainer img {
 	max-width: 100%
 }
+
+#featured { 
+	padding: 20px; 
+}
+#featured p {
+	float: left;
+	width: 29%;
+	padding: 1em;
+}
