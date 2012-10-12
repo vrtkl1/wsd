@@ -71,3 +71,8 @@ header {
 #latest	{ 
 	padding: 20px; 
 }
+
+.left-col { 
+	width: 50%; 
+	float: left; 
+}
