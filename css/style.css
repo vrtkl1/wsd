@@ -7,8 +7,21 @@ body {
 	color: #222; font-family: 'Droid Serif', serif; font-size: 16px;
 }
 
-a { color: #65cbf8; text-decoration: none; cursor: pointer; }
-a:hover { text-decoration: underline; }
-a img { border: 0; }
+a { 
+	outline: 0; 
+	color: #222; 
+	text-decoration: none; 
+}
+a:hover { 
+	text-decoration: underline; 
+}
+p a:hover { 
+	color: #27B3CF; 
+}
+a:active { 
+	outline: none; 
+	position: relative; 
+	top: 2px; 
+}
 
 .header { background: url(images/header.png) repeat-x 0 0; height: 58px; padding: 29px 0 0 0;  }
