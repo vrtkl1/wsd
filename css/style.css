@@ -67,3 +67,7 @@ header {
 #featImgContainerContainer img {
 	max-width: 100%
 }
+
+#latest	{ 
+	padding: 20px; 
+}
