@@ -85,6 +85,34 @@ header {
 	max-width: 100%
 }
 
+nav { 
+	background: #0072bc; 
+	padding: 0; 
+	margin: 10px 0;
+}
+
+nav a { 
+	color: #F9F9F9; 
+	display: block; 
+	float: left; 
+	padding: 10px; 
+}
+
+nav a:visited { 
+	color: #f9f9f9; 
+}
+
+nav a:hover	{ 
+	text-decoration: none; 
+	background: #25a8fd; 
+}
+
+nav a:active { 
+	position: relative; 
+	top: 0; 
+}
+
+
 #featured { 
 	padding: 20px; 
 }
