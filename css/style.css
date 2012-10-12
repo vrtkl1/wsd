@@ -76,3 +76,9 @@ header {
 	width: 50%; 
 	float: left; 
 }
+
+.sidebar { 
+	width: 50%; 
+	float: right; 
+	margin-bottom: 10px; 
+}
