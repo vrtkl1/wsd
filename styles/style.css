@@ -8,3 +8,9 @@ body {
     background: #efefef url(images/body.png) repeat-x 0 0;
     min-width: 950px;
 }
+
+a { color: #65cbf8; text-decoration: none; cursor: pointer; }
+a:hover { text-decoration: underline; }
+a img { border: 0; }
+
+.header { background: url(images/header.png) repeat-x 0 0; height: 58px; padding: 29px 0 0 0;  }
